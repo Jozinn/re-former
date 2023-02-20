@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a part of forms project in The Odin Project's Ruby on Rails curriculum. Find it at http://www.theodinproject.com/
 
 Things you may want to cover:
 
